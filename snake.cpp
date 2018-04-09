@@ -152,6 +152,7 @@ int main()
 		Draw();
 		Input();
 		Logic();
+		Sleep(10);
 	}
 
 	return 0;
